@@ -2,6 +2,8 @@ server:
   error:
     include-message: always
 spring:
+  application:
+    name: mongo-project
   data:
     mongodb:
       auto-index-creation: true

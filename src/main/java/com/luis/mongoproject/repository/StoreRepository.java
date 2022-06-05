@@ -1,6 +1,6 @@
 package com.luis.mongoproject.repository;
 
-import com.luis.mongoproject.model.Store;
+import com.luis.mongoproject.domain.Store;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.mongodb.core.query.TextCriteria;

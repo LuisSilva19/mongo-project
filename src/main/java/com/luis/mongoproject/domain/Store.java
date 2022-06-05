@@ -1,4 +1,4 @@
-package com.luis.mongoproject.model;
+package com.luis.mongoproject.domain;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;

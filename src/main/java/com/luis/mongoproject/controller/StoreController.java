@@ -1,5 +1,5 @@
 package com.luis.mongoproject.controller;
-import com.luis.mongoproject.model.Store;
+import com.luis.mongoproject.domain.Store;
 import com.luis.mongoproject.service.StoreService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;

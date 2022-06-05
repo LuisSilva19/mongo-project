@@ -1,7 +1,7 @@
 package com.luis.mongoproject.service;
 
 import com.luis.mongoproject.exception.ResourceNotFoundException;
-import com.luis.mongoproject.model.Store;
+import com.luis.mongoproject.domain.Store;
 import com.luis.mongoproject.repository.StoreRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
